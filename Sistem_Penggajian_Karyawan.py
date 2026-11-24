@@ -299,6 +299,4 @@ def main():
         else:
             print("[!] Menu tidak valid, coba lagi.")
 
-
-if __name__ == "__main__":
-    main()
+main()
